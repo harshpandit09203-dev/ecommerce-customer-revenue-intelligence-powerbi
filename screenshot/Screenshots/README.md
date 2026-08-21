@@ -99,16 +99,27 @@ The project follows a structured analytics workflow:
 Raw Data
 
    ↓
+   
 Data Cleaning
+
    ↓
+   
 Data Transformation
+
    ↓
+   
 Data Modeling
+
    ↓
+   
 DAX Measures
+
    ↓
+   
 Power BI Visualizations
+
    ↓
+   
 Business Insights
 
 ---
@@ -116,25 +127,51 @@ Business Insights
 📂 Project Structure
 
 Retail-Sales-Operations-Dashboard/
+
 │
+
 ├── README.md
+
 │
+
 ├── dashboard/
+
 │   └── Olist_Ecommerce_Analytics.pbix 
+
 │
+
 ├── data/
+
 │   └── olist_customers_dataset.csv
+
         olist_geolocation_dataset.csv
+        
         olist_order_items_dataset.csv
+        
         olist_order_payments_dataset.csv
+        
         olist_order_reviews_dataset.csv
+        
         olist_orders_dataset.csv
+        
         olist_products_dataset.csv
+        
         olist_sellers_dataset.csv
+        
         product_category_name_translation.csv 
+        
 │
+
 └── screenshots/
-    └── dashboard.png
+
+    └── Screenshot 2026-08-21 012924.png
+    
+        Screenshot 2026-08-21 013020.png
+        
+        Screenshot 2026-08-21 013112.png
+        
+        Screenshot 2026-08-21 013151.png
+    
 
 
 ---
