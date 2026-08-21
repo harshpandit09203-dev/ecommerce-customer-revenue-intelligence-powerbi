@@ -97,6 +97,7 @@ The dashboard can be used to identify:
 The project follows a structured analytics workflow:
 
 Raw Data
+
    ↓
 Data Cleaning
    ↓
