@@ -135,7 +135,6 @@ Retail-Sales-Operations-Dashboard/
 └── screenshots/
     └── dashboard.png
 
-«File and folder names can be adjusted according to the actual repository structure.»
 
 ---
 
