@@ -106,13 +106,17 @@ Retail-Sales-Operations-Dashboard/
 
 ├── dashboard/
 
-│ └── Olist_Ecommerce_Analytics.pbix
+│
+
+└── Olist_Ecommerce_Analytics.pbix
 
 │
 
 ├── data/
 
-│ └── olist_customers_dataset.csv
+│
+
+└── olist_customers_dataset.csv
 
     olist_geolocation_dataset.csv
     
